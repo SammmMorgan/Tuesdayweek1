@@ -8,6 +8,25 @@
 }
 
 
+.darkgrey {
+    background-color: rgb(85, 82, 82);
+    color: rgb(238, 231, 231)
+}
+
+.black {
+    background-color: rgb(0, 0, 0);
+    color: rgb(238, 231, 231)
+}
+
+.greyoutline {
+    border-bottom: 10px solid rgb(85, 82, 82);
+    border-top: 20px solid rgb(85, 82, 82);
+    border-right: 20px solid rgb(85, 82, 82);
+    border-left: 20px solid rgb(85, 82, 82);
+
+}
+
+
 .damnthing {
     background-size: cover;
     color: antiquewhite;
